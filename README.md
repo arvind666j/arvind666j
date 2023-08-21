@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arvind666j
-- 👀 I’m interested in web application Development
-- 🌱passionate about technologies such as Spring boot,Spring MVC,React.
-    Keen to talk about objects
+- 🌱passionate about technologies such as tableau,sql,python.
+    Keen to talk about database objects
 
 <!---
 arvind666j/arvind666j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
