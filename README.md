@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arvind666j
-- 🌱passionate about technologies such as tableau,sql,python.
+- 🌱passionate about technologies,tools such as tableau,sql,python.
     Keen to talk about database objects
 
 <!---
